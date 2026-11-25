@@ -1,0 +1,1079 @@
+{
+ "meta": {
+  "department": "DEPARTMENT OF INVISIBLE WORK",
+  "unit": "PORTFOLIO IMAGING UNIT",
+  "question": "WHAT ARE WE EXAMINING TODAY?",
+  "result": "THE RESULT IS VISIBLE. THE ENTIRE WORKING PROCESS ISN’T.",
+  "closing": "THE PORTFOLIO GOT US IN THE ROOM. THE QUESTIONS TAKE US FURTHER.",
+  "attribution": "Studio Bridge · Exhibit 5 of 5",
+  "ethics": "The imaging unit is a theatrical inspection metaphor. It reads what a document shows and says. It does not detect skill, character, initiative or team compatibility, and nothing here is automated analysis: the notes were written for this exhibit from a reading of the supplied PDFs, and the scan is an animation that computes nothing.",
+  "entranceNote": "Three real student portfolio projects are on file. The unit separates what a portfolio shows from what it documents, and both from what no document can show.",
+  "consent": "I understand the unit examines documents, not people."
+ },
+ "statuses": {
+  "visible": {
+   "label": "VISIBLE",
+   "desc": "You can see it in the work itself."
+  },
+  "documented": {
+   "label": "DOCUMENTED",
+   "desc": "The file states or shows it, on the page cited."
+  },
+  "notprovided": {
+   "label": "NOT PROVIDED",
+   "desc": "The file doesn’t say. It may exist; it isn’t here."
+  },
+  "cannot": {
+   "label": "CANNOT BE INFERRED",
+   "desc": "No document could settle this by itself. Ask the people."
+  }
+ },
+ "layers": [
+  {
+   "id": "visible",
+   "key": 2,
+   "label": "Visible Output",
+   "question": "What was made?"
+  },
+  {
+   "id": "context",
+   "key": 3,
+   "label": "Context",
+   "question": "What problem, for whom, under what brief?"
+  },
+  {
+   "id": "evidence",
+   "key": 4,
+   "label": "Evidence Behind the Design",
+   "question": "What research or testing informed it?"
+  },
+  {
+   "id": "choices",
+   "key": 5,
+   "label": "Choices and Trade-offs",
+   "question": "What was decided, and what was given up?"
+  },
+  {
+   "id": "change",
+   "key": 6,
+   "label": "Change History",
+   "question": "How did it change, and why?"
+  },
+  {
+   "id": "people",
+   "key": 7,
+   "label": "People Behind the Work",
+   "question": "Who made it, and who did what?"
+  },
+  {
+   "id": "beyond",
+   "key": 8,
+   "label": "Beyond the Portfolio",
+   "question": "What would only working together reveal?"
+  }
+ ],
+ "specimens": [
+  {
+   "id": "bachat",
+   "code": "SPECIMEN A",
+   "title": "Bachat Basics",
+   "subtitle": "Financial-literacy kit and workshop for underprivileged urban women · business plan pitch",
+   "course": "Innovation Roadmap · SDM 217 (cover, p. 1)",
+   "credited": [
+    "Anagha Shetty",
+    "Avishi Maru",
+    "Kavya Nair",
+    "Nikita Chandramouli",
+    "Nishita Bajaj"
+   ],
+   "creditPage": 1,
+   "file": "BDES24-28_Sem 3_SDM217_EA2 Part 2_Nikhita C_SDM A_fall2025.pdf",
+   "pageCount": 21,
+   "images": true,
+   "recommended": "Most documented process of the three: seven changes attributed to user testing (p. 13), pretotypes and prototypes (pp. 10–12) and a named version two (p. 16).",
+   "fileNote": "The file name names one team member and the PDF’s author field shows another member’s design-tool account. Neither says who made which part.",
+   "spelling": "The project name appears as both “Bachat” and “Bacchat” in the file.",
+   "folder": {
+    "visible": "Kit, guidebook, card game, app wireframes",
+    "context": "Financial literacy · urban women · SDM 217",
+    "change": [
+     "Pretotypes → prototypes (pp. 10–12)",
+     "7 test-led changes (p. 13)",
+     "“Version two” kit as MVP (p. 16)"
+    ]
+   },
+   "findings": {
+    "visible": [
+     {
+      "s": "visible",
+      "t": "A physical kit, photographed: sari-box packaging, picture-led guidebook, scenario card game, piggy bank and helpline card.",
+      "p": [
+       6,
+       12
+      ]
+     },
+     {
+      "s": "visible",
+      "t": "Five low-fidelity app wireframe screens.",
+      "p": [
+       8
+      ]
+     },
+     {
+      "s": "visible",
+      "t": "A bilingual identity: Devanagari and Latin letter blocks.",
+      "p": [
+       1,
+       10
+      ]
+     },
+     {
+      "s": "cannot",
+      "t": "Whether the dummy ATM and kit-packaging images are physical prototypes or digital renders. Looking can’t settle it, and the page doesn’t say.",
+      "p": [
+       10
+      ],
+      "ask": "Which of the prototypes on page 10 were physically built, and which are renders?"
+     }
+    ],
+    "context": [
+     {
+      "s": "documented",
+      "t": "Problem framed as a financial-literacy gap for underprivileged urban women, with eight root-cause areas mapped.",
+      "p": [
+       2,
+       3
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "Existing programmes reviewed and their gaps named (low-literacy formats, discreet learning, fear of mistakes).",
+      "p": [
+       4
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "Primary users, research findings and unmet needs set side by side.",
+      "p": [
+       5
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "Sources for the headline statistics (79%, 32%, 31%). None are cited in the file.",
+      "p": [
+       2
+      ],
+      "ask": "Where do the statistics on page 2 come from?"
+     }
+    ],
+    "evidence": [
+     {
+      "s": "documented",
+      "t": "Research findings summarised: fear of mistakes at ATMs and with UPI, bank accounts left unused, confidence growing through guided, hands-on practice.",
+      "p": [
+       5
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "User testing reported, with seven outcomes and photographs of four participants with the kit.",
+      "p": [
+       13
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "How the research and testing were done: method, number of participants, where and when, and the raw notes.",
+      "p": [
+       5,
+       13
+      ],
+      "ask": "How many people tested the kit, where, and how were their reactions recorded?"
+     },
+     {
+      "s": "notprovided",
+      "t": "Who on the team planned and ran the testing.",
+      "p": [],
+      "ask": "Who ran the user testing, and what did each person observe?"
+     }
+    ],
+    "choices": [
+     {
+      "s": "documented",
+      "t": "The sari box: privacy at home chosen over a visible “learning kit”.",
+      "p": [
+       6,
+       13
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "The app demoted to an optional parallel channel because it required confidence the kit didn’t.",
+      "p": [
+       13
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "The piggy bank repositioned as a short-term habit starter rather than long-term storage.",
+      "p": [
+       13
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "Costed at ₹89,300 for 100 kits, one dummy ATM and four workshops; risks listed with mitigations.",
+      "p": [
+       20,
+       18
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "Directions that were considered and rejected before the ones on page 13.",
+      "p": [],
+      "ask": "What did you try that didn’t make it into the kit?"
+     }
+    ],
+    "change": [
+     {
+      "s": "documented",
+      "t": "Pretotypes (paper piggy bank, pocket saving calendar, packaging, dummy ATM) followed by printed prototypes (guidebook, card game, sari-box kit).",
+      "p": [
+       10,
+       11,
+       12
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "Seven changes attributed to user testing, each tied to a part of the business model.",
+      "p": [
+       13
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "A “version two” sari-box kit named as the minimum viable product, and finalising version 2 placed first on the roadmap.",
+      "p": [
+       16,
+       18
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "Dates, the order of the changes, and version one shown beside version two.",
+      "p": [],
+      "ask": "What did version one of the kit look like, and when did it change?"
+     }
+    ],
+    "people": [
+     {
+      "s": "documented",
+      "t": "Five team members credited on the cover: Anagha Shetty, Avishi Maru, Kavya Nair, Nikita Chandramouli, Nishita Bajaj.",
+      "p": [
+       1
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "Who did what: individual roles and contributions.",
+      "p": [],
+      "ask": "Which parts of the kit, research and plan did each person lead?"
+     },
+     {
+      "s": "cannot",
+      "t": "How the team divided work, disagreed and decided.",
+      "p": [],
+      "ask": "Tell me about a decision the team disagreed on. How was it settled?"
+     }
+    ],
+    "beyond": [
+     {
+      "s": "notprovided",
+      "t": "Results from a pilot. The impact metrics and launch plan are targets and plans, not measured outcomes.",
+      "p": [
+       16,
+       17
+      ],
+      "ask": "Has any part of the kit been used outside testing? What happened?"
+     },
+     {
+      "s": "cannot",
+      "t": "Initiative, reliability, how each person takes feedback, what they would be like to work with. The unit examines documents, not people.",
+      "p": [],
+      "ask": "What feedback changed your mind on this project, and how did you respond?"
+     }
+    ]
+   },
+   "hotspots": [
+    {
+     "page": 1,
+     "x": 22,
+     "y": 81,
+     "w": 56,
+     "h": 10,
+     "layer": "people",
+     "s": "documented",
+     "title": "Credited team",
+     "note": "Five names on the cover. The file doesn’t say who did which part."
+    },
+    {
+     "page": 2,
+     "x": 4,
+     "y": 55,
+     "w": 92,
+     "h": 32,
+     "layer": "context",
+     "s": "notprovided",
+     "title": "Statistics without sources",
+     "note": "79%, 32% and 31% are stated, but no source is cited anywhere in the file."
+    },
+    {
+     "page": 3,
+     "x": 30,
+     "y": 8,
+     "w": 40,
+     "h": 84,
+     "layer": "context",
+     "s": "documented",
+     "title": "Root-cause map",
+     "note": "Eight cause areas around one central problem: poverty, social and psychological factors, norms, education, access, mobility and technology, information gaps, intergenerational patterns."
+    },
+    {
+     "page": 4,
+     "x": 3,
+     "y": 38,
+     "w": 94,
+     "h": 30,
+     "layer": "context",
+     "s": "documented",
+     "title": "Existing solutions and gaps",
+     "note": "Names classroom and booklet-based programmes and the gaps they leave: low literacy, discretion, fear of mistakes."
+    },
+    {
+     "page": 5,
+     "x": 33,
+     "y": 18,
+     "w": 32,
+     "h": 52,
+     "layer": "evidence",
+     "s": "documented",
+     "title": "Research findings",
+     "note": "Findings are summarised, but the method and the number of people spoken to are not given."
+    },
+    {
+     "page": 6,
+     "x": 62,
+     "y": 2,
+     "w": 36,
+     "h": 96,
+     "layer": "visible",
+     "s": "visible",
+     "title": "The kit, photographed",
+     "note": "A physical, assembled kit: box, guidebook, cards and piggy bank."
+    },
+    {
+     "page": 6,
+     "x": 1,
+     "y": 28,
+     "w": 58,
+     "h": 25,
+     "layer": "choices",
+     "s": "documented",
+     "title": "Why a sari box",
+     "note": "Designed to blend into the home and protect privacy, so learning can continue without household scrutiny."
+    },
+    {
+     "page": 8,
+     "x": 18,
+     "y": 20,
+     "w": 65,
+     "h": 70,
+     "layer": "visible",
+     "s": "visible",
+     "title": "App wireframes",
+     "note": "Five low-fidelity screens. Page 13 later reframes the app as optional."
+    },
+    {
+     "page": 10,
+     "x": 57,
+     "y": 18,
+     "w": 20,
+     "h": 34,
+     "layer": "change",
+     "s": "documented",
+     "title": "Paper pretotype: piggy bank",
+     "note": "A rough paper box, photographed. Compare the finished piggy bank on page 12."
+    },
+    {
+     "page": 10,
+     "x": 43,
+     "y": 53,
+     "w": 33,
+     "h": 38,
+     "layer": "change",
+     "s": "documented",
+     "title": "Pretotype: pocket saving calendar",
+     "note": "A hand-made paper calendar with pockets. It does not appear among the prototypes on page 12."
+    },
+    {
+     "page": 10,
+     "x": 77,
+     "y": 38,
+     "w": 18,
+     "h": 52,
+     "layer": "visible",
+     "s": "cannot",
+     "title": "Built or rendered?",
+     "note": "The dummy ATM image could be a physical model or a render. The page doesn’t say, and looking can’t settle it."
+    },
+    {
+     "page": 10,
+     "x": 5,
+     "y": 55,
+     "w": 26,
+     "h": 33,
+     "layer": "visible",
+     "s": "cannot",
+     "title": "Packaging: mock-up?",
+     "note": "This box image could be a digital mock-up. The final kit on page 12 is a sari box instead."
+    },
+    {
+     "page": 11,
+     "x": 5,
+     "y": 20,
+     "w": 90,
+     "h": 76,
+     "layer": "visible",
+     "s": "visible",
+     "title": "Guidebook and card game",
+     "note": "Printed spreads in Hindi and illustrated scenario cards."
+    },
+    {
+     "page": 12,
+     "x": 71,
+     "y": 59,
+     "w": 24,
+     "h": 32,
+     "layer": "change",
+     "s": "documented",
+     "title": "The sari box",
+     "note": "The packaging that replaced the printed kit box: page 13 ties it to privacy concerns raised in testing."
+    },
+    {
+     "page": 12,
+     "x": 5,
+     "y": 59,
+     "w": 16,
+     "h": 32,
+     "layer": "visible",
+     "s": "visible",
+     "title": "Scenario cards",
+     "note": "Icon-led cards with minimal reading, the form page 13 says testing pushed them towards."
+    },
+    {
+     "page": 12,
+     "x": 67,
+     "y": 20,
+     "w": 13,
+     "h": 38,
+     "layer": "visible",
+     "s": "visible",
+     "title": "Helpline card",
+     "note": "Public helpline numbers listed on a pocket card."
+    },
+    {
+     "page": 13,
+     "x": 7,
+     "y": 21,
+     "w": 57,
+     "h": 8,
+     "layer": "change",
+     "s": "documented",
+     "title": "Change 1: guidebook",
+     "note": "Long text felt heavy, so the guidebook became shorter and picture-led."
+    },
+    {
+     "page": 13,
+     "x": 7,
+     "y": 29,
+     "w": 57,
+     "h": 8,
+     "layer": "change",
+     "s": "documented",
+     "title": "Change 2: card game",
+     "note": "Users understood icons faster, so the game was redesigned with minimal reading."
+    },
+    {
+     "page": 13,
+     "x": 7,
+     "y": 37,
+     "w": 57,
+     "h": 12,
+     "layer": "choices",
+     "s": "documented",
+     "title": "Change 3: privacy",
+     "note": "Privacy concerns at home led to the sari box with a hidden compartment."
+    },
+    {
+     "page": 13,
+     "x": 7,
+     "y": 49,
+     "w": 57,
+     "h": 12,
+     "layer": "choices",
+     "s": "documented",
+     "title": "Change 4: piggy bank",
+     "note": "Unsure about capacity, so it was repositioned as a short-term habit starter."
+    },
+    {
+     "page": 13,
+     "x": 7,
+     "y": 61,
+     "w": 57,
+     "h": 8,
+     "layer": "change",
+     "s": "documented",
+     "title": "Change 5: guided practice",
+     "note": "Users preferred guided practice, so in-person workshops became the main channel."
+    },
+    {
+     "page": 13,
+     "x": 7,
+     "y": 69,
+     "w": 57,
+     "h": 12,
+     "layer": "choices",
+     "s": "documented",
+     "title": "Change 6: the app",
+     "note": "The kit fitted users’ routines but the app needed confidence, so it became optional."
+    },
+    {
+     "page": 13,
+     "x": 7,
+     "y": 81,
+     "w": 57,
+     "h": 9,
+     "layer": "evidence",
+     "s": "documented",
+     "title": "Change 7: validation",
+     "note": "Positive reactions to the ATM and sari box are reported. How many users, and how they were asked, isn’t."
+    },
+    {
+     "page": 13,
+     "x": 65,
+     "y": 21,
+     "w": 30,
+     "h": 70,
+     "layer": "evidence",
+     "s": "notprovided",
+     "title": "Participants (blurred here)",
+     "note": "Four photographs of participants with the kit. Blurred in this exhibit. The file gives no count, method, place or date for testing."
+    },
+    {
+     "page": 16,
+     "x": 4,
+     "y": 54,
+     "w": 92,
+     "h": 9,
+     "layer": "change",
+     "s": "documented",
+     "title": "Version two",
+     "note": "The “version two” sari-box kit, a working dummy ATM and the workshop curriculum form the MVP."
+    },
+    {
+     "page": 17,
+     "x": 2,
+     "y": 30,
+     "w": 96,
+     "h": 60,
+     "layer": "beyond",
+     "s": "notprovided",
+     "title": "Targets, not results",
+     "note": "Every figure here is a target. No pilot results are reported."
+    },
+    {
+     "page": 18,
+     "x": 43,
+     "y": 20,
+     "w": 55,
+     "h": 42,
+     "layer": "choices",
+     "s": "documented",
+     "title": "Risks and mitigations",
+     "note": "Household conflict, digital hesitation, wear and tear, low attendance, each with a response."
+    },
+    {
+     "page": 20,
+     "x": 3,
+     "y": 18,
+     "w": 94,
+     "h": 78,
+     "layer": "choices",
+     "s": "documented",
+     "title": "Costing",
+     "note": "₹89,300 in total: 100 kits, one dummy ATM, four workshops, transport."
+    }
+   ],
+   "versions": {
+    "a": {
+     "page": 10,
+     "label": "PRETOTYPES · p. 10"
+    },
+    "b": {
+     "page": 12,
+     "label": "PROTOTYPES · p. 12"
+    },
+    "note": "Documented sequence: rough paper and mock-up pretotypes, then printed and assembled prototypes. Page 13 attributes seven of the changes to user testing. Dates are not given."
+   }
+  },
+  {
+   "id": "canva",
+   "code": "SPECIMEN B",
+   "title": "Design DNA for Canva",
+   "subtitle": "Student campaign for a real brand · Creative Visualisation, EA 2",
+   "course": "EA 2 · Campaign Design · Creative Visualisation (cover, p. 1)",
+   "credited": [
+    "Aarush Shirke",
+    "Anagha Shetty",
+    "Nishita Bajaj"
+   ],
+   "creditPage": 1,
+   "file": "_EIA 2 – Nishita Bajaj_SDM A_Creative Visualisation _2025 (2).pdf",
+   "pageCount": 22,
+   "images": true,
+   "omitted": "Pages 2, 5, 7, 9, 16 and 22 are not shown: they include photographs of people, among them a real public figure.",
+   "fileNote": "A student brief for a real brand. The file doesn’t say Canva commissioned or approved it.",
+   "folder": {
+    "visible": "Posters, billboards, quiz UI, pop-ups",
+    "context": "Design-identity campaign · young creators",
+    "change": [
+     "No drafts or iterations in the file"
+    ]
+   },
+   "findings": {
+    "visible": [
+     {
+      "s": "visible",
+      "t": "A campaign system: five “design identity” posters, billboards, stairwell panels, a quiz app, merch and café pop-ups, print-shop and tray-sheet placements, social posts.",
+      "p": [
+       8,
+       10,
+       12,
+       14,
+       15,
+       17,
+       18,
+       19
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "Several placements are labelled as mock-ups.",
+      "p": [
+       11,
+       13
+      ]
+     }
+    ],
+    "context": [
+     {
+      "s": "documented",
+      "t": "Brand background, target audience, competitors and previous campaigns set out before the idea.",
+      "p": [
+       3,
+       4
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "Sources for the competitor prices.",
+      "p": [
+       4
+      ],
+      "ask": "Where do the competitor prices on page 4 come from, and when were they checked?"
+     }
+    ],
+    "evidence": [
+     {
+      "s": "documented",
+      "t": "An insight is stated: beginners stick to familiar templates and rarely experiment.",
+      "p": [
+       6
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "What the insight rests on. No interviews, surveys or testing are shown.",
+      "p": [
+       6
+      ],
+      "ask": "How did you arrive at the insight on page 6?"
+     }
+    ],
+    "choices": [
+     {
+      "s": "documented",
+      "t": "Each activation mapped to an objective and a rationale.",
+      "p": [
+       21
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "Alternatives that were rejected, and any budget or production constraints.",
+      "p": [],
+      "ask": "Which activation ideas did you drop, and why?"
+     }
+    ],
+    "change": [
+     {
+      "s": "notprovided",
+      "t": "Drafts, iterations or feedback rounds.",
+      "p": [],
+      "ask": "What changed between your first concept and this one?"
+     }
+    ],
+    "people": [
+     {
+      "s": "documented",
+      "t": "Three team members credited on the cover: Aarush Shirke, Anagha Shetty, Nishita Bajaj.",
+      "p": [
+       1
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "Who did what.",
+      "p": [],
+      "ask": "Which pieces of the campaign did each of you make?"
+     },
+     {
+      "s": "cannot",
+      "t": "How the team worked together.",
+      "p": [],
+      "ask": "How did the three of you split the work?"
+     }
+    ],
+    "beyond": [
+     {
+      "s": "cannot",
+      "t": "Anything about the people beyond what the pages show.",
+      "p": [],
+      "ask": "What would you do differently if this ran for real?"
+     }
+    ]
+   },
+   "hotspots": [
+    {
+     "page": 1,
+     "x": 26,
+     "y": 84,
+     "w": 50,
+     "h": 8,
+     "layer": "people",
+     "s": "documented",
+     "title": "Credited team",
+     "note": "Three names. Roles aren’t given."
+    },
+    {
+     "page": 4,
+     "x": 60,
+     "y": 34,
+     "w": 38,
+     "h": 22,
+     "layer": "context",
+     "s": "notprovided",
+     "title": "Prices, unsourced",
+     "note": "Competitor plan prices are listed without a source or date."
+    },
+    {
+     "page": 6,
+     "x": 58,
+     "y": 10,
+     "w": 40,
+     "h": 80,
+     "layer": "evidence",
+     "s": "documented",
+     "title": "The insight",
+     "note": "Stated clearly. What it is based on isn’t shown."
+    },
+    {
+     "page": 8,
+     "x": 2,
+     "y": 24,
+     "w": 96,
+     "h": 70,
+     "layer": "visible",
+     "s": "visible",
+     "title": "Quiz journey",
+     "note": "Six phone screens from start to share."
+    },
+    {
+     "page": 10,
+     "x": 1,
+     "y": 14,
+     "w": 98,
+     "h": 62,
+     "layer": "visible",
+     "s": "visible",
+     "title": "Five design identities",
+     "note": "Minimalist, Maximalist, Rebel, Strategist, Dreamer."
+    },
+    {
+     "page": 13,
+     "x": 1,
+     "y": 22,
+     "w": 98,
+     "h": 74,
+     "layer": "visible",
+     "s": "documented",
+     "title": "Labelled mock-ups",
+     "note": "The page title says these are mock-ups, not installed billboards."
+    },
+    {
+     "page": 21,
+     "x": 4,
+     "y": 16,
+     "w": 92,
+     "h": 80,
+     "layer": "choices",
+     "s": "documented",
+     "title": "Rationale table",
+     "note": "Each activation matched to an objective and an insight."
+    }
+   ],
+   "versions": null
+  },
+  {
+   "id": "natures",
+   "code": "SPECIMEN C",
+   "title": "Customers Na Milenge Dobaara",
+   "subtitle": "A service-design story for Nature’s Basket",
+   "course": "Not stated in the file",
+   "credited": [],
+   "creditPage": null,
+   "file": "Customers Na Milenge Dobaara (2).pdf",
+   "pageCount": 24,
+   "images": false,
+   "withheld": "Page images are withheld. The slides use photo-real likenesses of well-known film actors, and the file doesn’t say how the images were made or what permissions apply. This specimen is examined as a text record.",
+   "fileNote": "No team names appear in the file; the PDF author field shows only an account name.",
+   "folder": {
+    "visible": "Service story (images withheld)",
+    "context": "Grocery store experience · customer, staff, manager",
+    "change": [
+     "No drafts or iterations in the file"
+    ]
+   },
+   "pagesText": [
+    {
+     "n": 1,
+     "t": "Cover: the title as a film-poster parody, “a Nature’s Basket story”."
+    },
+    {
+     "n": 2,
+     "t": "Cast of six characters: customer, store associate, manager, marketer, CEO and “the result”."
+    },
+    {
+     "n": 3,
+     "t": "Problem: shopping feels disconnected, unguided and unrelated to people and community."
+    },
+    {
+     "n": 4,
+     "t": "The associate’s product knowledge lives in his head, not in the system."
+    },
+    {
+     "n": 5,
+     "t": "The manager sees sales and stock, but not how the store is experienced."
+    },
+    {
+     "n": 6,
+     "t": "Reframe: three problems are one service."
+    },
+    {
+     "n": 7,
+     "t": "Scenario: the customer must cook a Japanese dinner to impress a guest."
+    },
+    {
+     "n": 8,
+     "t": "The trip starts before the store: inspiration, saved journeys, reminders (app screens)."
+    },
+    {
+     "n": 9,
+     "t": "Mission-based shopping with in-store navigation (app screens)."
+    },
+    {
+     "n": 10,
+     "t": "Themed in-store station for building a ramen bowl."
+    },
+    {
+     "n": 11,
+     "t": "Kiosk design."
+    },
+    {
+     "n": 12,
+     "t": "Shopping by intention: date night, hosting, high protein, comfort food."
+    },
+    {
+     "n": 13,
+     "t": "Shelf labels that tell origin, taste and pairing."
+    },
+    {
+     "n": 14,
+     "t": "The associate as a trusted guide rather than a salesperson."
+    },
+    {
+     "n": 15,
+     "t": "A staff learning “passport” with badges and rewards."
+    },
+    {
+     "n": 16,
+     "t": "A five-step guidance routine: ask, filter, recommend, explain, pair."
+    },
+    {
+     "n": 17,
+     "t": "Food circles and monthly events to build community."
+    },
+    {
+     "n": 18,
+     "t": "A physical Discovery Passport collecting experiences."
+    },
+    {
+     "n": 19,
+     "t": "Remembering the customer between visits: event, remember, suggest, return."
+    },
+    {
+     "n": 20,
+     "t": "The manager’s service walk: price, flow, staff, discovery, counter."
+    },
+    {
+     "n": 21,
+     "t": "Fix ordinary friction before adding extraordinary moments."
+    },
+    {
+     "n": 22,
+     "t": "A relationship dashboard for the CEO."
+    },
+    {
+     "n": 23,
+     "t": "Proposed measures: discovery, confidence, experience, connection, return, value."
+    },
+    {
+     "n": 24,
+     "t": "Closing pun on the title."
+    }
+   ],
+   "findings": {
+    "visible": [
+     {
+      "s": "visible",
+      "t": "Visible in the file (not reproduced here): app screens, an in-store station, kiosk, shelf labels, staff and customer passports, a manager dashboard.",
+      "p": [
+       8,
+       9,
+       10,
+       11,
+       13,
+       15,
+       18,
+       22
+      ]
+     }
+    ],
+    "context": [
+     {
+      "s": "documented",
+      "t": "The problem is framed as one service seen from three sides: customer, associate and manager.",
+      "p": [
+       3,
+       4,
+       5,
+       6
+      ]
+     },
+     {
+      "s": "notprovided",
+      "t": "The course or brief the project was made for.",
+      "p": [],
+      "ask": "What brief was this made for, and who was it presented to?"
+     }
+    ],
+    "evidence": [
+     {
+      "s": "notprovided",
+      "t": "Research behind the framing. The characters are scenario personas; no interviews, store observation or testing are shown.",
+      "p": [
+       2
+      ],
+      "ask": "Did you visit a store or talk to staff or shoppers? What did you see?"
+     }
+    ],
+    "choices": [
+     {
+      "s": "documented",
+      "t": "Operations before delight: fix missing prices, blocked aisles and unattended counters first.",
+      "p": [
+       21
+      ]
+     },
+     {
+      "s": "documented",
+      "t": "Proposed measures for whether the service is working.",
+      "p": [
+       23
+      ]
+     }
+    ],
+    "change": [
+     {
+      "s": "notprovided",
+      "t": "Drafts, iterations or feedback rounds.",
+      "p": [],
+      "ask": "How did the concept change as you developed it?"
+     }
+    ],
+    "people": [
+     {
+      "s": "notprovided",
+      "t": "No team members are named in the file.",
+      "p": [],
+      "ask": "Who worked on this, and what did each person do?"
+     },
+     {
+      "s": "notprovided",
+      "t": "How the photo-real images of real actors were made and whether any permissions apply.",
+      "p": [
+       1,
+       2
+      ],
+      "ask": "How were the character images produced?"
+     }
+    ],
+    "beyond": [
+     {
+      "s": "cannot",
+      "t": "Anything about the people beyond what the pages show.",
+      "p": [],
+      "ask": "Which part of this would you test first, and how?"
+     }
+    ]
+   },
+   "hotspots": [],
+   "versions": null
+  }
+ ],
+ "sources": {
+  "files": "The three PDFs supplied by the Studio Bridge team for this exhibit. Page numbers refer to those files.",
+  "sb": "Studio Bridge primary research, thematic synthesis: a portfolio is what gets a candidate considered; feedback, questions, reliability and compatibility show up in collaboration. Paraphrased; no participant is quoted."
+ },
+ "disclaimers": [
+  "The imaging unit is a metaphor. It does not detect skill, character, initiative or team compatibility.",
+  "Statuses describe the documents, not the people. “Not provided” means the file doesn’t say, not that the work wasn’t done.",
+  "Notes were written for this exhibit from a reading of the PDFs. The scan animation computes nothing.",
+  "Participant photographs (Bachat Basics, p. 13) are blurred. Pages showing identifiable people or real public figures are not reproduced.",
+  "Nothing is stored. Your ticket, choices and report live in this tab and clear on reset or close."
+ ]
+}

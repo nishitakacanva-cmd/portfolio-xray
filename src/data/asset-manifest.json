@@ -1,0 +1,152 @@
+{
+ "PX_ENV_01_ClinicEntrance_v01": {
+  "path": "assets/01_Portfolio_XRay/01_Environments/PX_ENV_01_ClinicEntrance_v01.png",
+  "w": 1376,
+  "h": 768,
+  "alpha": false
+ },
+ "PX_ENV_02_Reception_v01": {
+  "path": "assets/01_Portfolio_XRay/01_Environments/PX_ENV_02_Reception_v01.png",
+  "w": 1376,
+  "h": 768,
+  "alpha": false
+ },
+ "PX_ENV_03_ExamChamber_v01": {
+  "path": "assets/01_Portfolio_XRay/01_Environments/PX_ENV_03_ExamChamber_v01.png",
+  "w": 1376,
+  "h": 768,
+  "alpha": false
+ },
+ "PX_ENV_04_ExitCorridor_v01": {
+  "path": "assets/01_Portfolio_XRay/01_Environments/PX_ENV_04_ExitCorridor_v01.png",
+  "w": 1376,
+  "h": 768,
+  "alpha": false
+ },
+ "PX_FORM_01_RegistrationForm_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_FORM_01_RegistrationForm_v01.png",
+  "w": 425,
+  "h": 590,
+  "alpha": true
+ },
+ "PX_FORM_02_SpecimenFolderCover_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_FORM_02_SpecimenFolderCover_v01.png",
+  "w": 424,
+  "h": 614,
+  "alpha": true
+ },
+ "PX_FORM_03_ExaminationReport_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_FORM_03_ExaminationReport_v01.png",
+  "w": 444,
+  "h": 616,
+  "alpha": true
+ },
+ "PX_FORM_04_InstitutionalPoster_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_FORM_04_InstitutionalPoster_v01.png",
+  "w": 471,
+  "h": 617,
+  "alpha": true
+ },
+ "PX_PROP_01_FrostedDoubleDoors_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_PROP_01_FrostedDoubleDoors_v01.png",
+  "w": 608,
+  "h": 603,
+  "alpha": true
+ },
+ "PX_PROP_02_ReceptionCounter_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_PROP_02_ReceptionCounter_v01.png",
+  "w": 631,
+  "h": 428,
+  "alpha": true
+ },
+ "PX_PROP_03_DeskLamp_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_PROP_03_DeskLamp_v01.png",
+  "w": 302,
+  "h": 365,
+  "alpha": true
+ },
+ "PX_PROP_04_SpecimenFolders_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_PROP_04_SpecimenFolders_v01.png",
+  "w": 441,
+  "h": 327,
+  "alpha": true
+ },
+ "PX_PROP_05_QueueTicketPrinter_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_PROP_05_QueueTicketPrinter_v01.png",
+  "w": 316,
+  "h": 296,
+  "alpha": true
+ },
+ "PX_PROP_06_Clipboard_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_PROP_06_Clipboard_v01.png",
+  "w": 488,
+  "h": 356,
+  "alpha": true
+ },
+ "PX_PROP_07_MonitorShell_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_PROP_07_MonitorShell_v01.png",
+  "w": 405,
+  "h": 356,
+  "alpha": true
+ },
+ "PX_SCAN_01_ImagingTableLightbox_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_SCAN_01_ImagingTableLightbox_v01.png",
+  "w": 587,
+  "h": 662,
+  "alpha": true
+ },
+ "PX_SCAN_02_ScanningArm_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_SCAN_02_ScanningArm_v01.png",
+  "w": 606,
+  "h": 654,
+  "alpha": true
+ },
+ "PX_SCAN_03_FilmClampsClips_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_SCAN_03_FilmClampsClips_v01.png",
+  "w": 422,
+  "h": 288,
+  "alpha": true
+ },
+ "PX_SCAN_04_ControlKnobCluster_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_SCAN_04_ControlKnobCluster_v01.png",
+  "w": 546,
+  "h": 310,
+  "alpha": true
+ },
+ "PX_SCAN_05_ModeSelectorPanel_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_SCAN_05_ModeSelectorPanel_v01.png",
+  "w": 557,
+  "h": 326,
+  "alpha": true
+ },
+ "PX_SCAN_06_ReportPrinter_v01": {
+  "path": "assets/01_Portfolio_XRay/03_Cropped_Transparent_PNGs/PX_SCAN_06_ReportPrinter_v01.png",
+  "w": 547,
+  "h": 365,
+  "alpha": true
+ },
+ "PX_PROP_01_FrostedDoubleDoors_v01__left": {
+  "path": "assets/derived/PX_PROP_01_FrostedDoubleDoors_v01__left.png",
+  "w": 303,
+  "h": 603,
+  "alpha": true,
+  "derivedFrom": "PX_PROP_01_FrostedDoubleDoors_v01",
+  "derivation": "Split at the centre seam (x=303) into two leaves so the doors slide apart."
+ },
+ "PX_PROP_01_FrostedDoubleDoors_v01__right": {
+  "path": "assets/derived/PX_PROP_01_FrostedDoubleDoors_v01__right.png",
+  "w": 305,
+  "h": 603,
+  "alpha": true,
+  "derivedFrom": "PX_PROP_01_FrostedDoubleDoors_v01",
+  "derivation": "Split at the centre seam (x=303) into two leaves so the doors slide apart."
+ },
+ "PX_FORM_03_ExaminationReport_v01__header": {
+  "path": "assets/derived/PX_FORM_03_ExaminationReport_v01__header.png",
+  "w": 444,
+  "h": 79,
+  "alpha": true,
+  "derivedFrom": "PX_FORM_03_ExaminationReport_v01",
+  "derivation": "Rows 27\u2013106 (title + department) only. The baked section labels read \"EVIOENCE BEHINO THE DESIGN\" and cover 4 of 7 layers, so sections are live HTML."
+ }
+}

@@ -1,0 +1,266 @@
+{
+ "bachat": [
+  {
+   "n": 1,
+   "src": "specimens/bachat/p01.jpg",
+   "thumb": "specimens/bachat/p01_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 2,
+   "src": "specimens/bachat/p02.jpg",
+   "thumb": "specimens/bachat/p02_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 3,
+   "src": "specimens/bachat/p03.jpg",
+   "thumb": "specimens/bachat/p03_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 4,
+   "src": "specimens/bachat/p04.jpg",
+   "thumb": "specimens/bachat/p04_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 5,
+   "src": "specimens/bachat/p05.jpg",
+   "thumb": "specimens/bachat/p05_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 6,
+   "src": "specimens/bachat/p06.jpg",
+   "thumb": "specimens/bachat/p06_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 7,
+   "src": "specimens/bachat/p07.jpg",
+   "thumb": "specimens/bachat/p07_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 8,
+   "src": "specimens/bachat/p08.jpg",
+   "thumb": "specimens/bachat/p08_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 9,
+   "src": "specimens/bachat/p09.jpg",
+   "thumb": "specimens/bachat/p09_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 10,
+   "src": "specimens/bachat/p10.jpg",
+   "thumb": "specimens/bachat/p10_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 11,
+   "src": "specimens/bachat/p11.jpg",
+   "thumb": "specimens/bachat/p11_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 12,
+   "src": "specimens/bachat/p12.jpg",
+   "thumb": "specimens/bachat/p12_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 13,
+   "src": "specimens/bachat/p13.jpg",
+   "thumb": "specimens/bachat/p13_t.jpg",
+   "w": 1600,
+   "h": 900,
+   "note": "Participant photographs blurred in this exhibit (private individuals)."
+  },
+  {
+   "n": 14,
+   "src": "specimens/bachat/p14.jpg",
+   "thumb": "specimens/bachat/p14_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 15,
+   "src": "specimens/bachat/p15.jpg",
+   "thumb": "specimens/bachat/p15_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 16,
+   "src": "specimens/bachat/p16.jpg",
+   "thumb": "specimens/bachat/p16_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 17,
+   "src": "specimens/bachat/p17.jpg",
+   "thumb": "specimens/bachat/p17_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 18,
+   "src": "specimens/bachat/p18.jpg",
+   "thumb": "specimens/bachat/p18_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 19,
+   "src": "specimens/bachat/p19.jpg",
+   "thumb": "specimens/bachat/p19_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 20,
+   "src": "specimens/bachat/p20.jpg",
+   "thumb": "specimens/bachat/p20_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 21,
+   "src": "specimens/bachat/p21.jpg",
+   "thumb": "specimens/bachat/p21_t.jpg",
+   "w": 1600,
+   "h": 900
+  }
+ ],
+ "canva": [
+  {
+   "n": 1,
+   "src": "specimens/canva/p01.jpg",
+   "thumb": "specimens/canva/p01_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 3,
+   "src": "specimens/canva/p03.jpg",
+   "thumb": "specimens/canva/p03_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 4,
+   "src": "specimens/canva/p04.jpg",
+   "thumb": "specimens/canva/p04_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 6,
+   "src": "specimens/canva/p06.jpg",
+   "thumb": "specimens/canva/p06_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 8,
+   "src": "specimens/canva/p08.jpg",
+   "thumb": "specimens/canva/p08_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 10,
+   "src": "specimens/canva/p10.jpg",
+   "thumb": "specimens/canva/p10_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 11,
+   "src": "specimens/canva/p11.jpg",
+   "thumb": "specimens/canva/p11_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 12,
+   "src": "specimens/canva/p12.jpg",
+   "thumb": "specimens/canva/p12_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 13,
+   "src": "specimens/canva/p13.jpg",
+   "thumb": "specimens/canva/p13_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 14,
+   "src": "specimens/canva/p14.jpg",
+   "thumb": "specimens/canva/p14_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 15,
+   "src": "specimens/canva/p15.jpg",
+   "thumb": "specimens/canva/p15_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 17,
+   "src": "specimens/canva/p17.jpg",
+   "thumb": "specimens/canva/p17_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 18,
+   "src": "specimens/canva/p18.jpg",
+   "thumb": "specimens/canva/p18_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 19,
+   "src": "specimens/canva/p19.jpg",
+   "thumb": "specimens/canva/p19_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 20,
+   "src": "specimens/canva/p20.jpg",
+   "thumb": "specimens/canva/p20_t.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "n": 21,
+   "src": "specimens/canva/p21.jpg",
+   "thumb": "specimens/canva/p21_t.jpg",
+   "w": 1600,
+   "h": 900
+  }
+ ]
+}
